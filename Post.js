@@ -26,7 +26,7 @@ app.post('api/users',function(req,res)
   return res.send('Product added');
 });
 
-app.listen('3000',function(){
-console.log('server listening to port 3000')
+app.listen('3010',function(){
+console.log('server listening to port 3010')
 
 });
